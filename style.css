@@ -150,11 +150,9 @@ nav ul li a:hover {
 .eventsüber {
     text-align: center;
     color: white;
-
     font-weight: 700;
     font-size: 2em;
     text-decoration: underline;
-    padding: 9px;
     text-transform: uppercase;
     animation: animato 1s ease-in-out infinite alternate;
 }
